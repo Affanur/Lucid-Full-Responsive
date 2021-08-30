@@ -1,0 +1,105 @@
+@media(min-width:768px) and (max-width:1024px){
+   
+    .feature-content h3{
+        font-size: 22px;
+    }
+}
+@media(min-width:768px) and (max-width:1024px){
+    .btn-download{
+        padding: 12px 15px; ;
+    }
+}
+@media(min-width:991px) and (max-width:1024px){
+    .phone img {
+        width: 80%;
+    }
+   
+}
+@media(min-width:768px) and (max-width:991px){
+    .phone img {
+        width: 65%;
+    }
+   
+}
+
+@media(min-width:0px) and (max-width:768px){
+    .phone {
+        display: none;
+    }
+    .tab_phone{
+        display: inherit;
+    }
+    .tab_phone img{
+        
+        width: 70%;
+        
+        margin: auto;
+        
+        padding: 0px;
+    }
+    .testimonial {
+        margin-bottom: 25px;
+    }
+    .feature-content h3{
+        font-size: 22px;
+    }
+    .btn-order{
+        padding: 10px 10px;
+    }
+    
+}
+@media(min-width:0) and (max-width:575px){
+    .navbar-nav {
+       
+        text-align: center;
+        l
+    }
+    .navbar-light .navbar-nav .nav-item {
+        
+        margin-bottom: 15px;
+    }
+    .navbar-light .navbar-nav .nav-link:hover {
+        
+        display: inline-block;
+    }
+}
+@media(min-width:0) and (max-width:575px){
+    .phone {
+        display: none;
+    }
+    .header-content {
+        text-align: center;
+    }
+    .choice-section {
+        
+        text-align: center;
+    }
+    .price{
+        margin-bottom: 30px;
+    }
+    .contact_form {
+        width: 70%;
+        top: 75%;
+    }
+    .map iframe{
+        height: 500px;
+    }
+}
+@media(min-width:0) and (max-width:425px){
+    
+    .header-content h5 {
+       
+        margin-left: 0px;
+        
+    }
+    .header-content h1 {
+       
+        margin-left: 0px;
+        
+    }
+    .header-content p {
+       
+        margin-left: 0px;
+        
+    }
+}
